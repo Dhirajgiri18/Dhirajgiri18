@@ -9,7 +9,7 @@ A Java Web Developer and an Open Source Enthusiast.
 
 <!--- 🔭 I’m currently working on React Native App, Next.js Ecommerce App.-->
 
-- 🌱 I’m currently learning ** DSA-JAVA, React, Springboot, Node.js **
+- 🌱 I’m currently learning ** DSA-CPP-JAVA, React, Springboot, Node.js **
 
 - 👨‍💻 All of my projects will be available at [My Portfolio](https://dhirajgiri18.github.io/Portfolio/)
 
