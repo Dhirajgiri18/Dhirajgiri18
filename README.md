@@ -39,6 +39,7 @@ A Java Web Developer and an Open Source Enthusiast.
 ### Language :
 ![Java](https://img.shields.io/badge/-Java-E34A86?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c)
+![C#](https://img.shields.io/badge/-C#-E34F26?style=for-the-badge&logo=c&logoColor=white)
 ![C](https://img.shields.io/badge/-C-E34F26?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -51,6 +52,8 @@ A Java Web Developer and an Open Source Enthusiast.
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
+![ASP.NET](https://img.shields.io/badge/Asp.Net-092E20?style=for-the-badge&logo=django&logoColor=white)
+
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
