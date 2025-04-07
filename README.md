@@ -15,7 +15,7 @@
 
 ### 🚀 About Me
 
-- 🌱 I’m currently learning: **DSA (C++/Java)**, **React**, **Spring Boot**, **Node.js**
+- 🌱 I’m currently exploring: **Blockchain Technology**
 - 👨‍💻 Check out all my projects at [My Portfolio](https://dhirajgiri18.github.io/Portfolio/)
 - 📫 Reach me at: **dhirajgiri91124@gmail.com**
 - 🔗 [View My GitHub Activity](https://github.com/Dhirajgiri18?tab=overview)
