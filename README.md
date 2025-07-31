@@ -20,7 +20,7 @@
 - 🛠️ Working on: `Java Full Stack`, `Next.js`, `React`, and `LeetCode`
 - 👨‍💻 Portfolio: [dhirajgiri18.github.io/Portfolio](https://dhirajgiri18.github.io/Portfolio/)
 - 📫 Email: **dhirajgiri91124@gmail.com**
-- 🔍 GitHub Overview: [github.com/Dhirajgiri18](https://github.com/Dhirajgiri18?tab=overview)
+- 🔍 GitHub Overview: [linkedin.com/in/dhiraj-giri18/](https://www.linkedin.com/in/dhiraj-giri18/)
 
 ---
 
